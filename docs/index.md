@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Team 1234"
   text: "Robotics Excellence"
-  tagline: "Building the future, one bolt at a time."
+  tagline: "Building the future, one xc at a time."
   actions:
     - theme: brand
       text: Our Robot
