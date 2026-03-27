@@ -1,9 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // THIS IS THE FIX for the blank/white screen
   base: '/ftc30099/', 
+  
   title: "FTC 30099 - OmicronX",
   description: "Official Team Website",
+
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
