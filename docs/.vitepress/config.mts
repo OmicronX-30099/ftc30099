@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/ftc30099/', 
   title: "FTC 30099 - OmicronX",
   description: "Official Team Website",
-  
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
